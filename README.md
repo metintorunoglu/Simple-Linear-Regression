@@ -1,1 +1,2 @@
 # Simple Linear Regression
+A basic example of simple linear regression and useful templates for preprocessing data. The regression line demonstrates the relationship between the experience of years spent for a particular job and the amount of salary received by each employee. Actually, there are two scatter plots to explain what we did in our model. The first graphic is for the Train data set, and the second one for the test set. In both demonstrations, we also supported the simple linear regression line.
